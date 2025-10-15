@@ -1,2 +1,2 @@
 # SimplePhone
-A simple 
+A simple IOS widget that simplifies the UI
