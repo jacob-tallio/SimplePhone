@@ -94,6 +94,6 @@ struct SimpleWidget: Widget {
         }
         .configurationDisplayName("SimpleWidget")
         .description("A minimalist dumbphone-style launcher widget.")
-        .supportedFamilies([.systemSmall, .systemMedium])
+        .supportedFamilies([.systemSmall, .systemMedium, .systemLarge, .systemExtraLarge])
     }
 }
